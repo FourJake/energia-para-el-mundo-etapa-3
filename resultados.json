@@ -1,0 +1,57 @@
+{
+  "Tipos de energía": [
+    [
+      "Solar",
+      "Sol"
+    ],
+    [
+      "Eólica",
+      "Viento"
+    ],
+    [
+      "Hidroeléctrica",
+      "Agua"
+    ],
+    [
+      "Biomasa",
+      "Materia orgánica"
+    ]
+  ],
+  "Acciones sencillas": [
+    [
+      "Apagar luces innecesarias"
+    ],
+    [
+      "Aprovechar la luz natural"
+    ]
+  ],
+  "Fuentes de cada contenido": [
+    [
+      "Solar",
+      "Argentina.gob.ar"
+    ],
+    [
+      "Eólica",
+      "Argentina.gob.ar"
+    ],
+    [
+      "Hidroeléctrica",
+      "Argentina.gob.ar"
+    ],
+    [
+      "Biomasa",
+      "Argentina.gob.ar"
+    ],
+    [
+      "Energía y clima",
+      "Naciones Unidas"
+    ],
+    [
+      "Acciones cotidianas",
+      "Naciones Unidas"
+    ]
+  ],
+  "Clave primaria repetida": "Rechazado correctamente",
+  "Fuente inexistente": "Rechazado correctamente",
+  "Título vacío": "Rechazado correctamente"
+}
